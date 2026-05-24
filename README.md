@@ -1,6 +1,6 @@
 # KTÜN İME Haftalık Belge Şablonu
 
-Karadeniz Teknik Üniversitesi **İşletmede Mesleki Eğitim (İME)** sürecinde kullanılmak üzere haftalık çalışma kayıtlarını A4 formata uygun şekilde hazırlayan web tabanlı şablon oluşturucu.
+Konya Teknik Üniversitesi **İşletmede Mesleki Eğitim (İME)** sürecinde kullanılmak üzere haftalık çalışma kayıtlarını A4 formata uygun şekilde hazırlayan web tabanlı şablon oluşturucu.
 
 Word veya Google Docs’tan yapıştırılan metinleri düzenleyebilir, otomatik sayfa bölümü ile önizleyebilir ve yazdırarak PDF olarak kaydedebilirsiniz.
 
